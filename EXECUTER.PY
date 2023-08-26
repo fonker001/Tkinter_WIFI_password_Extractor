@@ -89,3 +89,5 @@ Label(root, text="fonker001",bg="lime", font="Helvetica 10 bold").place(x=5,y=33
 
 #running the main application
 root.mainloop()
+
+#CONTACT AT: oganga1aus@gmail.com
